@@ -1,0 +1,15 @@
+@font-face {
+    font-family: HKGrotesk-Regular, sans-serif;
+    src: url(fonts/HKGrotesk-Regular.otf);
+  }
+body{
+    font-family: HKGrotesk-Regular, sans-serif;
+}
+@media screen and (min-width: 768px) and (max-width: 1192px){
+    .display-3{
+        font-size: 2.5rem;
+    }
+    .img-fluid{
+        height: 350px;
+    }
+}
